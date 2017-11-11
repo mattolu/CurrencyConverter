@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="activity_converter">Converter</string>
+    <string name="hint">Enter Value in Base Currency</string>
+    <string name="button_text">CONVERT</string>
+    <string name="resultPlaceHolder">0.00000000</string>
+    <string name="text">Conversion From Base Currency To both Bitcoin and Ethereum equivalents </string>
+    <string name="empty">No Rates Found</string>
+    <string name="noInternet">No Internet Connection</string>
+    <string name="base">Currency</string>
+    <string name="btc">BITCOIN</string>
+    <string name="eth">ETHEREUM</string>
+    <string name="ethText">ETH</string>
+    <string name="btcText">BTC</string>
+    <string name="refr">Refresh</string>
+</resources>
+

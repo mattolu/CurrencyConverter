@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f92b5</color>
+    <color name="colorPrimaryDark">#d8308b9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCardBackground">#FFFFFF</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextEtherem">#BFBFBF</color>
+    <color name="colorTextBtc">#C9AE5D</color>
+    <color name="colorTextCurrency">#000000</color>
+    <color name="colorCircleBackground">#64b5f6</color>
+    <color name="colorButtonBackground">#8442c761</color>
+    <color name="ethBack">#dfe3ee</color>
+</resources>
